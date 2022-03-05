@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BouncingBall", "BouncingBall\BouncingBall.vcxproj", "{F31B24F7-73C6-448A-B6B3-6536D64551E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31B24F7-73C6-448A-B6B3-6536D64551E3}.Debug|x64.ActiveCfg = Debug|x64
+		{F31B24F7-73C6-448A-B6B3-6536D64551E3}.Debug|x64.Build.0 = Debug|x64
+		{F31B24F7-73C6-448A-B6B3-6536D64551E3}.Release|x64.ActiveCfg = Release|x64
+		{F31B24F7-73C6-448A-B6B3-6536D64551E3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BF2352-C8EC-43FA-A259-8A9ED7EF183E}
+	EndGlobalSection
+EndGlobal
